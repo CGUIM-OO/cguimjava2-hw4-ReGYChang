@@ -3,7 +3,7 @@ import java.util.HashMap;
 //import java.util.Scanner;
 public class HW4 {
 	public static void main(String[] args) {
-		int nDeck=4;
+		int nDeck=1;
 		Deck deck=new Deck(nDeck);
 		//TODO: please check your output, make sure that 
 		Player player1=new Player("Player 1",100);
